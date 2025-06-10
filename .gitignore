@@ -1,2 +1,4 @@
 build/*
-./indexer/build/*
+indexer/build/*
+indexer/build/indexer*
+indexer/build/music_library.sqlite

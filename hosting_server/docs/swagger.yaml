@@ -1,0 +1,200 @@
+basePath: /
+definitions:
+  main.Track:
+    properties:
+      album_id:
+        type: string
+      artist_id:
+        type: string
+      file_path:
+        type: string
+      id:
+        example: funky-lion-pencil-heart
+        type: string
+      title:
+        type: string
+    type: object
+host: localhost:8080
+info:
+  contact: {}
+  description: API to serve audio files and metadata using Gin and SQLite3.
+  title: Music Server API
+  version: "1.0"
+paths:
+  /album/{id}:
+    get:
+      parameters:
+      - description: Album ID
+        in: path
+        name: id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/main.Track'
+            type: array
+        "404":
+          description: Not Found
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Get tracks of an album
+  /artist/{artist_id}:
+    get:
+      parameters:
+      - description: Artist ID
+        in: path
+        name: artist_id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/main.Track'
+            type: array
+        "404":
+          description: Not Found
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Get all tracks by artist ID
+  /cover/{id}:
+    get:
+      parameters:
+      - description: Track HumanHash ID
+        in: path
+        name: id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+        "404":
+          description: Not Found
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Get album cover as base64
+  /search/{query}:
+    get:
+      parameters:
+      - description: Search Query
+        in: path
+        name: query
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/main.Track'
+            type: array
+        "404":
+          description: Not Found
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Get racks by Fuzzy Search
+  /search/album/{query}:
+    get:
+      parameters:
+      - description: Search Query
+        in: path
+        name: query
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/main.Track'
+            type: array
+        "404":
+          description: Not Found
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Get all Albums using Fuzzy Search
+  /stream/{id}:
+    get:
+      parameters:
+      - description: Track HumanHash ID
+        in: path
+        name: id
+        required: true
+        type: string
+      produces:
+      - audio/flac
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: file
+        "404":
+          description: Not Found
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Stream audio file
+  /track/{id}:
+    get:
+      parameters:
+      - description: Track HumanHash ID
+        in: path
+        name: id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/main.Track'
+        "404":
+          description: Not Found
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Get track metadata
+  /tracks/all:
+    get:
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/main.Track'
+            type: array
+      summary: Get all tracks
+swagger: "2.0"

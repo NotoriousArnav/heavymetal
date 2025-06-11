@@ -10,8 +10,8 @@ tidy:
 	go mod tidy
 
 build: tidy
-	@mkdir -p $(BUILD_DIR)
-	go build -o $(BUILD_DIR)/$(APP_NAME) $(SRC)
+	go build -o /tmp/$(APP_NAME) $(SRC)
+	echo "Build complete: /tmp/$(APP_NAME)"
 
 clean:
 	rm -rf $(BUILD_DIR)

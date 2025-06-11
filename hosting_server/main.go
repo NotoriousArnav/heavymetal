@@ -5,6 +5,7 @@ import (
 	"encoding/base64"
 	"io/ioutil"
 	"log"
+	"time"
 	"net/http"
 	"os"
 	"path/filepath"
@@ -13,6 +14,7 @@ import (
 	_ "github.com/mattn/go-sqlite3"
 
 	"github.com/gin-gonic/gin"
+	"github.com/gin-contrib/cors"
 	swaggerFiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"
 	swag "github.com/swaggo/swag/example/basic/docs"
@@ -271,12 +273,15 @@ func streamTrackHandler(c *gin.Context) {
 	c.File(path)
 }
 
+func indexHandler(c *gin.Context) {
+	c.JSON(http.StatusOK, gin.H{"message": "Welcome to the Music Server API"})
+}
+
 func main() {
 	dbPath := getEnv("MUSIC_DB_PATH", "music_library.sqlite")
 	user := getEnv("MUSIC_USER", "admin")
 	pass := getEnv("MUSIC_PASS", "admin123")
 	port := getEnv("PORT", "8080")
-
 
 	var err error
 	db, err = sql.Open("sqlite3", dbPath)
@@ -287,9 +292,23 @@ func main() {
 
 	r := gin.Default()
 
+	// CORS configuration
+	r.Use(cors.New(cors.Config{
+    AllowOrigins:     []string{"*"},
+    AllowMethods:     []string{"PUT", "PATCH", "POST", "GET", "DELETE"},
+    AllowHeaders:     []string{"Origin"},
+    ExposeHeaders:    []string{"Content-Length"},
+    AllowCredentials: true,
+    AllowOriginFunc: func(origin string) bool {
+      return true
+    },
+    MaxAge: 12 * time.Hour,
+  }));
+
 	// Conditionally apply BasicAuth
 	if strings.ToLower(user) != "0null" {
 		auth := r.Group("/", gin.BasicAuth(gin.Accounts{user: pass}))
+		auth.GET("", indexHandler)
 		auth.GET("/track/:id", getTrackHandler)
 		auth.GET("/stream/:id", streamTrackHandler)
 		auth.GET("/tracks/all", getAllTracksHandler)
@@ -299,6 +318,7 @@ func main() {
 		auth.GET("/search/track/:query", getTracksByFuzzySearchHandler)
 		auth.GET("/search/album/:query", getAlbumsByFuzzySearchHandler)
 	} else {
+		r.GET("", indexHandler)
 		r.GET("/track/:id", getTrackHandler)
 		r.GET("/stream/:id", streamTrackHandler)
 		r.GET("/tracks/all", getAllTracksHandler)

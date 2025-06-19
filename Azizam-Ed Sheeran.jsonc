@@ -1,0 +1,2247 @@
+{
+    "info": "SongSync is cool, but would like to try Lyrically? :)",
+    "type": "Syllable",
+    "content": [
+        {
+            "text": [
+                {
+                    "text": "A",
+                    "part": true,
+                    "timestamp": 6642,
+                    "endtime": 7199
+                },
+                {
+                    "text": "zi",
+                    "part": true,
+                    "timestamp": 7199,
+                    "endtime": 7509
+                },
+                {
+                    "text": "zam",
+                    "part": false,
+                    "timestamp": 7509,
+                    "endtime": 8098
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 6642,
+            "endtime": 8098
+        },
+        {
+            "text": [
+                {
+                    "text": "Meet",
+                    "part": false,
+                    "timestamp": 9447,
+                    "endtime": 9837
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 9837,
+                    "endtime": 10027
+                },
+                {
+                    "text": "on",
+                    "part": false,
+                    "timestamp": 10027,
+                    "endtime": 10320
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 10320,
+                    "endtime": 10488
+                },
+                {
+                    "text": "floor",
+                    "part": false,
+                    "timestamp": 10488,
+                    "endtime": 10960
+                },
+                {
+                    "text": "to",
+                    "part": true,
+                    "timestamp": 10960,
+                    "endtime": 11203
+                },
+                {
+                    "text": "night",
+                    "part": false,
+                    "timestamp": 11203,
+                    "endtime": 11860
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 9447,
+            "endtime": 11860
+        },
+        {
+            "text": [
+                {
+                    "text": "Show",
+                    "part": false,
+                    "timestamp": 13111,
+                    "endtime": 13540
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 13540,
+                    "endtime": 13740
+                },
+                {
+                    "text": "how",
+                    "part": false,
+                    "timestamp": 13740,
+                    "endtime": 14060
+                },
+                {
+                    "text": "to",
+                    "part": false,
+                    "timestamp": 14060,
+                    "endtime": 14244
+                },
+                {
+                    "text": "move",
+                    "part": false,
+                    "timestamp": 14244,
+                    "endtime": 14524
+                },
+                {
+                    "text": "like",
+                    "part": false,
+                    "timestamp": 14524,
+                    "endtime": 14841
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 14841,
+                    "endtime": 15156
+                },
+                {
+                    "text": "wa",
+                    "part": true,
+                    "timestamp": 15156,
+                    "endtime": 15588
+                },
+                {
+                    "text": "t\u0435r",
+                    "part": false,
+                    "timestamp": 15588,
+                    "endtime": 16303
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 13111,
+            "endtime": 16303
+        },
+        {
+            "text": [
+                {
+                    "text": "In",
+                    "part": false,
+                    "timestamp": 16724,
+                    "endtime": 17322
+                },
+                {
+                    "text": "be",
+                    "part": true,
+                    "timestamp": 17322,
+                    "endtime": 17514
+                },
+                {
+                    "text": "tween",
+                    "part": false,
+                    "timestamp": 17514,
+                    "endtime": 17796
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 17796,
+                    "endtime": 17975
+                },
+                {
+                    "text": "dan",
+                    "part": true,
+                    "timestamp": 17975,
+                    "endtime": 18428
+                },
+                {
+                    "text": "cing",
+                    "part": false,
+                    "timestamp": 18428,
+                    "endtime": 18738
+                },
+                {
+                    "text": "lights",
+                    "part": false,
+                    "timestamp": 18738,
+                    "endtime": 19569
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 16724,
+            "endtime": 19569
+        },
+        {
+            "text": [
+                {
+                    "text": "Be",
+                    "part": false,
+                    "timestamp": 19569,
+                    "endtime": 19871
+                },
+                {
+                    "text": "min\u0435,",
+                    "part": false,
+                    "timestamp": 19871,
+                    "endtime": 20388
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 20580,
+                    "endtime": 20786
+                },
+                {
+                    "text": "mine",
+                    "part": false,
+                    "timestamp": 20786,
+                    "endtime": 21377
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 19569,
+            "endtime": 21377
+        },
+        {
+            "text": [
+                {
+                    "text": "A",
+                    "part": true,
+                    "timestamp": 21620,
+                    "endtime": 22188
+                },
+                {
+                    "text": "zi",
+                    "part": true,
+                    "timestamp": 22188,
+                    "endtime": 22500
+                },
+                {
+                    "text": "zam",
+                    "part": false,
+                    "timestamp": 22500,
+                    "endtime": 23081
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 21620,
+            "endtime": 23081
+        },
+        {
+            "text": [
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 23081,
+                    "endtime": 24092
+                },
+                {
+                    "text": "wan",
+                    "part": true,
+                    "timestamp": 24092,
+                    "endtime": 24281
+                },
+                {
+                    "text": "na",
+                    "part": false,
+                    "timestamp": 24281,
+                    "endtime": 24422
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 24422,
+                    "endtime": 24580
+                },
+                {
+                    "text": "no",
+                    "part": true,
+                    "timestamp": 24580,
+                    "endtime": 24886
+                },
+                {
+                    "text": "where",
+                    "part": false,
+                    "timestamp": 24886,
+                    "endtime": 25180
+                },
+                {
+                    "text": "but",
+                    "part": false,
+                    "timestamp": 25180,
+                    "endtime": 25465
+                },
+                {
+                    "text": "here",
+                    "part": false,
+                    "timestamp": 25465,
+                    "endtime": 25793
+                },
+                {
+                    "text": "with",
+                    "part": false,
+                    "timestamp": 25793,
+                    "endtime": 26086
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 26086,
+                    "endtime": 26393
+                },
+                {
+                    "text": "now",
+                    "part": false,
+                    "timestamp": 26393,
+                    "endtime": 26785
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 23081,
+            "endtime": 26785
+        },
+        {
+            "text": [
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 26785,
+                    "endtime": 27817
+                },
+                {
+                    "text": "wan",
+                    "part": true,
+                    "timestamp": 27817,
+                    "endtime": 27991
+                },
+                {
+                    "text": "na",
+                    "part": false,
+                    "timestamp": 27991,
+                    "endtime": 28135
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 28135,
+                    "endtime": 28287
+                },
+                {
+                    "text": "one",
+                    "part": false,
+                    "timestamp": 28287,
+                    "endtime": 28591
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 28591,
+                    "endtime": 28900
+                },
+                {
+                    "text": "this",
+                    "part": false,
+                    "timestamp": 28900,
+                    "endtime": 29236
+                },
+                {
+                    "text": "space",
+                    "part": false,
+                    "timestamp": 29236,
+                    "endtime": 29940
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 26785,
+            "endtime": 29940
+        },
+        {
+            "text": [
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 30534,
+                    "endtime": 31542
+                },
+                {
+                    "text": "wan",
+                    "part": true,
+                    "timestamp": 31542,
+                    "endtime": 31726
+                },
+                {
+                    "text": "na",
+                    "part": false,
+                    "timestamp": 31726,
+                    "endtime": 31876
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 31876,
+                    "endtime": 32022
+                },
+                {
+                    "text": "tan",
+                    "part": true,
+                    "timestamp": 32022,
+                    "endtime": 32340
+                },
+                {
+                    "text": "gled",
+                    "part": false,
+                    "timestamp": 32340,
+                    "endtime": 32659
+                },
+                {
+                    "text": "and",
+                    "part": false,
+                    "timestamp": 32659,
+                    "endtime": 32937
+                },
+                {
+                    "text": "wrapped",
+                    "part": false,
+                    "timestamp": 32937,
+                    "endtime": 33260
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 33260,
+                    "endtime": 33558
+                },
+                {
+                    "text": "your",
+                    "part": false,
+                    "timestamp": 33558,
+                    "endtime": 33894
+                },
+                {
+                    "text": "cloud",
+                    "part": false,
+                    "timestamp": 33894,
+                    "endtime": 34291
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 30534,
+            "endtime": 34291
+        },
+        {
+            "text": [
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 34291,
+                    "endtime": 35300
+                },
+                {
+                    "text": "wan",
+                    "part": true,
+                    "timestamp": 35300,
+                    "endtime": 35465
+                },
+                {
+                    "text": "na",
+                    "part": false,
+                    "timestamp": 35465,
+                    "endtime": 35617
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 35617,
+                    "endtime": 35761
+                },
+                {
+                    "text": "close",
+                    "part": false,
+                    "timestamp": 35761,
+                    "endtime": 36089
+                },
+                {
+                    "text": "to",
+                    "part": false,
+                    "timestamp": 36089,
+                    "endtime": 36383
+                },
+                {
+                    "text": "your",
+                    "part": false,
+                    "timestamp": 36383,
+                    "endtime": 36721
+                },
+                {
+                    "text": "face",
+                    "part": false,
+                    "timestamp": 36721,
+                    "endtime": 37273
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 34291,
+            "endtime": 37273
+        },
+        {
+            "text": [
+                {
+                    "text": "Well,",
+                    "part": false,
+                    "timestamp": 37273,
+                    "endtime": 37523
+                },
+                {
+                    "text": "to",
+                    "part": true,
+                    "timestamp": 37523,
+                    "endtime": 37664
+                },
+                {
+                    "text": "mor",
+                    "part": true,
+                    "timestamp": 37664,
+                    "endtime": 37982
+                },
+                {
+                    "text": "row",
+                    "part": false,
+                    "timestamp": 37982,
+                    "endtime": 38267
+                },
+                {
+                    "text": "can",
+                    "part": false,
+                    "timestamp": 38267,
+                    "endtime": 38571
+                },
+                {
+                    "text": "wait,",
+                    "part": false,
+                    "timestamp": 38571,
+                    "endtime": 39058
+                },
+                {
+                    "text": "losing",
+                    "part": false,
+                    "timestamp": 39216,
+                    "endtime": 39534
+                },
+                {
+                    "text": "time",
+                    "part": false,
+                    "timestamp": 39534,
+                    "endtime": 39843
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 39843,
+                    "endtime": 40128
+                },
+                {
+                    "text": "this",
+                    "part": false,
+                    "timestamp": 40128,
+                    "endtime": 40440
+                },
+                {
+                    "text": "place",
+                    "part": false,
+                    "timestamp": 40440,
+                    "endtime": 41042
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 37273,
+            "endtime": 41042
+        },
+        {
+            "text": [
+                {
+                    "text": "Till",
+                    "part": false,
+                    "timestamp": 41042,
+                    "endtime": 41188
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 41188,
+                    "endtime": 41333
+                },
+                {
+                    "text": "sun",
+                    "part": false,
+                    "timestamp": 41333,
+                    "endtime": 41647
+                },
+                {
+                    "text": "is",
+                    "part": false,
+                    "timestamp": 41647,
+                    "endtime": 41959
+                },
+                {
+                    "text": "a",
+                    "part": true,
+                    "timestamp": 41959,
+                    "endtime": 42230
+                },
+                {
+                    "text": "wake,",
+                    "part": false,
+                    "timestamp": 42230,
+                    "endtime": 42604
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 42689,
+                    "endtime": 42877
+                },
+                {
+                    "text": "like",
+                    "part": false,
+                    "timestamp": 42877,
+                    "endtime": 43053
+                },
+                {
+                    "text": "a",
+                    "part": false,
+                    "timestamp": 43053,
+                    "endtime": 43205
+                },
+                {
+                    "text": "mag",
+                    "part": true,
+                    "timestamp": 43205,
+                    "endtime": 43532
+                },
+                {
+                    "text": "net",
+                    "part": false,
+                    "timestamp": 43532,
+                    "endtime": 43866
+                },
+                {
+                    "text": "on",
+                    "part": false,
+                    "timestamp": 43866,
+                    "endtime": 44152
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 44152,
+                    "endtime": 44631
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 41042,
+            "endtime": 44631
+        },
+        {
+            "text": [
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 44754,
+                    "endtime": 44946
+                },
+                {
+                    "text": "don't",
+                    "part": false,
+                    "timestamp": 44946,
+                    "endtime": 45165
+                },
+                {
+                    "text": "care",
+                    "part": false,
+                    "timestamp": 45165,
+                    "endtime": 45475
+                },
+                {
+                    "text": "what",
+                    "part": false,
+                    "timestamp": 45475,
+                    "endtime": 45768
+                },
+                {
+                    "text": "they",
+                    "part": false,
+                    "timestamp": 45768,
+                    "endtime": 46083
+                },
+                {
+                    "text": "say,",
+                    "part": false,
+                    "timestamp": 46083,
+                    "endtime": 46520
+                },
+                {
+                    "text": "we",
+                    "part": false,
+                    "timestamp": 46688,
+                    "endtime": 46841
+                },
+                {
+                    "text": "can",
+                    "part": false,
+                    "timestamp": 46841,
+                    "endtime": 47056
+                },
+                {
+                    "text": "do",
+                    "part": false,
+                    "timestamp": 47056,
+                    "endtime": 47336
+                },
+                {
+                    "text": "it",
+                    "part": false,
+                    "timestamp": 47336,
+                    "endtime": 47627
+                },
+                {
+                    "text": "our",
+                    "part": false,
+                    "timestamp": 47627,
+                    "endtime": 47933
+                },
+                {
+                    "text": "way",
+                    "part": false,
+                    "timestamp": 47933,
+                    "endtime": 48538
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 44754,
+            "endtime": 48538
+        },
+        {
+            "text": [
+                {
+                    "text": "And",
+                    "part": false,
+                    "timestamp": 48538,
+                    "endtime": 48773
+                },
+                {
+                    "text": "if",
+                    "part": false,
+                    "timestamp": 48773,
+                    "endtime": 48906
+                },
+                {
+                    "text": "love's",
+                    "part": false,
+                    "timestamp": 48906,
+                    "endtime": 49247
+                },
+                {
+                    "text": "just",
+                    "part": false,
+                    "timestamp": 49247,
+                    "endtime": 49535
+                },
+                {
+                    "text": "a",
+                    "part": false,
+                    "timestamp": 49535,
+                    "endtime": 49855
+                },
+                {
+                    "text": "game,",
+                    "part": false,
+                    "timestamp": 49855,
+                    "endtime": 50165
+                },
+                {
+                    "text": "then",
+                    "part": false,
+                    "timestamp": 50165,
+                    "endtime": 50335
+                },
+                {
+                    "text": "come",
+                    "part": false,
+                    "timestamp": 50335,
+                    "endtime": 50511
+                },
+                {
+                    "text": "and",
+                    "part": false,
+                    "timestamp": 50511,
+                    "endtime": 50647
+                },
+                {
+                    "text": "play",
+                    "part": false,
+                    "timestamp": 50647,
+                    "endtime": 51173
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 48538,
+            "endtime": 51173
+        },
+        {
+            "text": [
+                {
+                    "text": "A",
+                    "part": true,
+                    "timestamp": 51626,
+                    "endtime": 52173
+                },
+                {
+                    "text": "zi",
+                    "part": true,
+                    "timestamp": 52173,
+                    "endtime": 52493
+                },
+                {
+                    "text": "zam",
+                    "part": false,
+                    "timestamp": 52493,
+                    "endtime": 53077
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 51626,
+            "endtime": 53077
+        },
+        {
+            "text": [
+                {
+                    "text": "Meet",
+                    "part": false,
+                    "timestamp": 54442,
+                    "endtime": 54802
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 54802,
+                    "endtime": 54973
+                },
+                {
+                    "text": "on",
+                    "part": false,
+                    "timestamp": 54973,
+                    "endtime": 55309
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 55309,
+                    "endtime": 55477
+                },
+                {
+                    "text": "floor",
+                    "part": false,
+                    "timestamp": 55477,
+                    "endtime": 55912
+                },
+                {
+                    "text": "to",
+                    "part": true,
+                    "timestamp": 55912,
+                    "endtime": 56208
+                },
+                {
+                    "text": "night",
+                    "part": false,
+                    "timestamp": 56208,
+                    "endtime": 56847
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 54442,
+            "endtime": 56847
+        },
+        {
+            "text": [
+                {
+                    "text": "Show",
+                    "part": false,
+                    "timestamp": 58071,
+                    "endtime": 58573
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 58573,
+                    "endtime": 58760
+                },
+                {
+                    "text": "how",
+                    "part": false,
+                    "timestamp": 58760,
+                    "endtime": 59080
+                },
+                {
+                    "text": "to",
+                    "part": false,
+                    "timestamp": 59080,
+                    "endtime": 59237
+                },
+                {
+                    "text": "move",
+                    "part": false,
+                    "timestamp": 59237,
+                    "endtime": 59541
+                },
+                {
+                    "text": "like",
+                    "part": false,
+                    "timestamp": 59541,
+                    "endtime": 59840
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 59840,
+                    "endtime": 60128
+                },
+                {
+                    "text": "wa",
+                    "part": true,
+                    "timestamp": 60128,
+                    "endtime": 60592
+                },
+                {
+                    "text": "t\u0435r",
+                    "part": false,
+                    "timestamp": 60592,
+                    "endtime": 61300
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 58071,
+            "endtime": 61300
+        },
+        {
+            "text": [
+                {
+                    "text": "In",
+                    "part": false,
+                    "timestamp": 61729,
+                    "endtime": 62309
+                },
+                {
+                    "text": "be",
+                    "part": true,
+                    "timestamp": 62309,
+                    "endtime": 62482
+                },
+                {
+                    "text": "tween",
+                    "part": false,
+                    "timestamp": 62482,
+                    "endtime": 62783
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 62783,
+                    "endtime": 62965
+                },
+                {
+                    "text": "dan",
+                    "part": true,
+                    "timestamp": 62965,
+                    "endtime": 63437
+                },
+                {
+                    "text": "cing",
+                    "part": false,
+                    "timestamp": 63437,
+                    "endtime": 63698
+                },
+                {
+                    "text": "lights",
+                    "part": false,
+                    "timestamp": 63698,
+                    "endtime": 64550
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 61729,
+            "endtime": 64550
+        },
+        {
+            "text": [
+                {
+                    "text": "Be",
+                    "part": false,
+                    "timestamp": 64566,
+                    "endtime": 64860
+                },
+                {
+                    "text": "min\u0435,",
+                    "part": false,
+                    "timestamp": 64860,
+                    "endtime": 65370
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 65580,
+                    "endtime": 65796
+                },
+                {
+                    "text": "mine",
+                    "part": false,
+                    "timestamp": 65796,
+                    "endtime": 66385
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 64566,
+            "endtime": 66385
+        },
+        {
+            "text": [
+                {
+                    "text": "A",
+                    "part": true,
+                    "timestamp": 66593,
+                    "endtime": 67189
+                },
+                {
+                    "text": "zi",
+                    "part": true,
+                    "timestamp": 67189,
+                    "endtime": 67493
+                },
+                {
+                    "text": "zam",
+                    "part": false,
+                    "timestamp": 67493,
+                    "endtime": 68100
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 66593,
+            "endtime": 68100
+        },
+        {
+            "text": [
+                {
+                    "text": "A",
+                    "part": true,
+                    "timestamp": 74116,
+                    "endtime": 74695
+                },
+                {
+                    "text": "zi",
+                    "part": true,
+                    "timestamp": 74695,
+                    "endtime": 75007
+                },
+                {
+                    "text": "zam",
+                    "part": false,
+                    "timestamp": 75007,
+                    "endtime": 75657
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 74116,
+            "endtime": 75657
+        },
+        {
+            "text": [
+                {
+                    "text": "A",
+                    "part": true,
+                    "timestamp": 81607,
+                    "endtime": 82196
+                },
+                {
+                    "text": "zi",
+                    "part": true,
+                    "timestamp": 82196,
+                    "endtime": 82479
+                },
+                {
+                    "text": "zam",
+                    "part": false,
+                    "timestamp": 82479,
+                    "endtime": 83039
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 81607,
+            "endtime": 83039
+        },
+        {
+            "text": [
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 83072,
+                    "endtime": 84092
+                },
+                {
+                    "text": "wan",
+                    "part": true,
+                    "timestamp": 84092,
+                    "endtime": 84262
+                },
+                {
+                    "text": "na",
+                    "part": false,
+                    "timestamp": 84262,
+                    "endtime": 84420
+                },
+                {
+                    "text": "get",
+                    "part": false,
+                    "timestamp": 84420,
+                    "endtime": 84590
+                },
+                {
+                    "text": "lost",
+                    "part": false,
+                    "timestamp": 84590,
+                    "endtime": 84916
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 84916,
+                    "endtime": 85244
+                },
+                {
+                    "text": "your",
+                    "part": false,
+                    "timestamp": 85244,
+                    "endtime": 85524
+                },
+                {
+                    "text": "o",
+                    "part": true,
+                    "timestamp": 85524,
+                    "endtime": 85817
+                },
+                {
+                    "text": "cean",
+                    "part": false,
+                    "timestamp": 85817,
+                    "endtime": 86118
+                },
+                {
+                    "text": "and",
+                    "part": false,
+                    "timestamp": 86118,
+                    "endtime": 86404
+                },
+                {
+                    "text": "drown",
+                    "part": false,
+                    "timestamp": 86404,
+                    "endtime": 86824
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 83072,
+            "endtime": 86824
+        },
+        {
+            "text": [
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 86824,
+                    "endtime": 87801
+                },
+                {
+                    "text": "wan",
+                    "part": true,
+                    "timestamp": 87801,
+                    "endtime": 87977
+                },
+                {
+                    "text": "na",
+                    "part": false,
+                    "timestamp": 87977,
+                    "endtime": 88118
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 88118,
+                    "endtime": 88257
+                },
+                {
+                    "text": "care",
+                    "part": true,
+                    "timestamp": 88257,
+                    "endtime": 88606
+                },
+                {
+                    "text": "less",
+                    "part": false,
+                    "timestamp": 88606,
+                    "endtime": 88886
+                },
+                {
+                    "text": "and",
+                    "part": false,
+                    "timestamp": 88886,
+                    "endtime": 89203
+                },
+                {
+                    "text": "free",
+                    "part": false,
+                    "timestamp": 89203,
+                    "endtime": 89696
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 86824,
+            "endtime": 89696
+        },
+        {
+            "text": [
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 90510,
+                    "endtime": 91577
+                },
+                {
+                    "text": "wan",
+                    "part": true,
+                    "timestamp": 91577,
+                    "endtime": 91753
+                },
+                {
+                    "text": "na",
+                    "part": false,
+                    "timestamp": 91753,
+                    "endtime": 91914
+                },
+                {
+                    "text": "live",
+                    "part": false,
+                    "timestamp": 91914,
+                    "endtime": 92038
+                },
+                {
+                    "text": "here",
+                    "part": false,
+                    "timestamp": 92038,
+                    "endtime": 92366
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 92366,
+                    "endtime": 92673
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 92673,
+                    "endtime": 92985
+                },
+                {
+                    "text": "mo",
+                    "part": true,
+                    "timestamp": 92985,
+                    "endtime": 93299
+                },
+                {
+                    "text": "ment",
+                    "part": false,
+                    "timestamp": 93299,
+                    "endtime": 93587
+                },
+                {
+                    "text": "we",
+                    "part": false,
+                    "timestamp": 93587,
+                    "endtime": 93913
+                },
+                {
+                    "text": "found",
+                    "part": false,
+                    "timestamp": 93913,
+                    "endtime": 94315
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 90510,
+            "endtime": 94315
+        },
+        {
+            "text": [
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 94315,
+                    "endtime": 95289
+                },
+                {
+                    "text": "wan",
+                    "part": true,
+                    "timestamp": 95289,
+                    "endtime": 95452
+                },
+                {
+                    "text": "na",
+                    "part": false,
+                    "timestamp": 95452,
+                    "endtime": 95601
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 95601,
+                    "endtime": 95769
+                },
+                {
+                    "text": "all",
+                    "part": false,
+                    "timestamp": 95769,
+                    "endtime": 96084
+                },
+                {
+                    "text": "that",
+                    "part": false,
+                    "timestamp": 96084,
+                    "endtime": 96358
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 96358,
+                    "endtime": 96692
+                },
+                {
+                    "text": "see",
+                    "part": false,
+                    "timestamp": 96692,
+                    "endtime": 97240
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 94315,
+            "endtime": 97240
+        },
+        {
+            "text": [
+                {
+                    "text": "Well,",
+                    "part": false,
+                    "timestamp": 97289,
+                    "endtime": 97529
+                },
+                {
+                    "text": "to",
+                    "part": true,
+                    "timestamp": 97529,
+                    "endtime": 97684
+                },
+                {
+                    "text": "mor",
+                    "part": true,
+                    "timestamp": 97684,
+                    "endtime": 97969
+                },
+                {
+                    "text": "row",
+                    "part": false,
+                    "timestamp": 97969,
+                    "endtime": 98289
+                },
+                {
+                    "text": "can",
+                    "part": false,
+                    "timestamp": 98289,
+                    "endtime": 98620
+                },
+                {
+                    "text": "wait,",
+                    "part": false,
+                    "timestamp": 98620,
+                    "endtime": 98989
+                },
+                {
+                    "text": "losing",
+                    "part": false,
+                    "timestamp": 99193,
+                    "endtime": 99503
+                },
+                {
+                    "text": "time",
+                    "part": false,
+                    "timestamp": 99503,
+                    "endtime": 99860
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 99860,
+                    "endtime": 100143
+                },
+                {
+                    "text": "this",
+                    "part": false,
+                    "timestamp": 100143,
+                    "endtime": 100473
+                },
+                {
+                    "text": "place",
+                    "part": false,
+                    "timestamp": 100473,
+                    "endtime": 101033
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 97289,
+            "endtime": 101033
+        },
+        {
+            "text": [
+                {
+                    "text": "Till",
+                    "part": false,
+                    "timestamp": 101033,
+                    "endtime": 101250
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 101250,
+                    "endtime": 101402
+                },
+                {
+                    "text": "sun",
+                    "part": false,
+                    "timestamp": 101402,
+                    "endtime": 101708
+                },
+                {
+                    "text": "is",
+                    "part": false,
+                    "timestamp": 101708,
+                    "endtime": 102027
+                },
+                {
+                    "text": "a",
+                    "part": true,
+                    "timestamp": 102027,
+                    "endtime": 102277
+                },
+                {
+                    "text": "wake,",
+                    "part": false,
+                    "timestamp": 102277,
+                    "endtime": 102630
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 102692,
+                    "endtime": 102881
+                },
+                {
+                    "text": "like",
+                    "part": false,
+                    "timestamp": 102881,
+                    "endtime": 103039
+                },
+                {
+                    "text": "a",
+                    "part": false,
+                    "timestamp": 103039,
+                    "endtime": 103207
+                },
+                {
+                    "text": "mag",
+                    "part": true,
+                    "timestamp": 103207,
+                    "endtime": 103500
+                },
+                {
+                    "text": "net",
+                    "part": false,
+                    "timestamp": 103500,
+                    "endtime": 103851
+                },
+                {
+                    "text": "on",
+                    "part": false,
+                    "timestamp": 103851,
+                    "endtime": 104161
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 104161,
+                    "endtime": 104655
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 101033,
+            "endtime": 104655
+        },
+        {
+            "text": [
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 104786,
+                    "endtime": 104989
+                },
+                {
+                    "text": "don't",
+                    "part": false,
+                    "timestamp": 104989,
+                    "endtime": 105176
+                },
+                {
+                    "text": "care",
+                    "part": false,
+                    "timestamp": 105176,
+                    "endtime": 105485
+                },
+                {
+                    "text": "what",
+                    "part": false,
+                    "timestamp": 105485,
+                    "endtime": 105776
+                },
+                {
+                    "text": "they",
+                    "part": false,
+                    "timestamp": 105776,
+                    "endtime": 106088
+                },
+                {
+                    "text": "say,",
+                    "part": false,
+                    "timestamp": 106088,
+                    "endtime": 106529
+                },
+                {
+                    "text": "we",
+                    "part": false,
+                    "timestamp": 106729,
+                    "endtime": 106906
+                },
+                {
+                    "text": "can",
+                    "part": false,
+                    "timestamp": 106906,
+                    "endtime": 107064
+                },
+                {
+                    "text": "do",
+                    "part": false,
+                    "timestamp": 107064,
+                    "endtime": 107341
+                },
+                {
+                    "text": "it",
+                    "part": false,
+                    "timestamp": 107341,
+                    "endtime": 107602
+                },
+                {
+                    "text": "our",
+                    "part": false,
+                    "timestamp": 107602,
+                    "endtime": 107957
+                },
+                {
+                    "text": "way",
+                    "part": false,
+                    "timestamp": 107957,
+                    "endtime": 108551
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 104786,
+            "endtime": 108551
+        },
+        {
+            "text": [
+                {
+                    "text": "And",
+                    "part": false,
+                    "timestamp": 108551,
+                    "endtime": 108777
+                },
+                {
+                    "text": "if",
+                    "part": false,
+                    "timestamp": 108777,
+                    "endtime": 108926
+                },
+                {
+                    "text": "love's",
+                    "part": false,
+                    "timestamp": 108926,
+                    "endtime": 109241
+                },
+                {
+                    "text": "just",
+                    "part": false,
+                    "timestamp": 109241,
+                    "endtime": 109533
+                },
+                {
+                    "text": "a",
+                    "part": false,
+                    "timestamp": 109533,
+                    "endtime": 109863
+                },
+                {
+                    "text": "game,",
+                    "part": false,
+                    "timestamp": 109863,
+                    "endtime": 110178
+                },
+                {
+                    "text": "then",
+                    "part": false,
+                    "timestamp": 110178,
+                    "endtime": 110322
+                },
+                {
+                    "text": "come",
+                    "part": false,
+                    "timestamp": 110322,
+                    "endtime": 110509
+                },
+                {
+                    "text": "and",
+                    "part": false,
+                    "timestamp": 110509,
+                    "endtime": 110676
+                },
+                {
+                    "text": "play",
+                    "part": false,
+                    "timestamp": 110676,
+                    "endtime": 111202
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 108551,
+            "endtime": 111202
+        },
+        {
+            "text": [
+                {
+                    "text": "A",
+                    "part": true,
+                    "timestamp": 111598,
+                    "endtime": 112162
+                },
+                {
+                    "text": "zi",
+                    "part": true,
+                    "timestamp": 112162,
+                    "endtime": 112495
+                },
+                {
+                    "text": "zam",
+                    "part": false,
+                    "timestamp": 112495,
+                    "endtime": 113098
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 111598,
+            "endtime": 113098
+        },
+        {
+            "text": [
+                {
+                    "text": "Meet",
+                    "part": false,
+                    "timestamp": 114431,
+                    "endtime": 114825
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 114825,
+                    "endtime": 114999
+                },
+                {
+                    "text": "on",
+                    "part": false,
+                    "timestamp": 114999,
+                    "endtime": 115311
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 115311,
+                    "endtime": 115460
+                },
+                {
+                    "text": "floor",
+                    "part": false,
+                    "timestamp": 115460,
+                    "endtime": 115953
+                },
+                {
+                    "text": "to",
+                    "part": true,
+                    "timestamp": 115953,
+                    "endtime": 116241
+                },
+                {
+                    "text": "night",
+                    "part": false,
+                    "timestamp": 116241,
+                    "endtime": 116996
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 114431,
+            "endtime": 116996
+        },
+        {
+            "text": [
+                {
+                    "text": "Show",
+                    "part": false,
+                    "timestamp": 118148,
+                    "endtime": 118550
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 118550,
+                    "endtime": 118729
+                },
+                {
+                    "text": "how",
+                    "part": false,
+                    "timestamp": 118729,
+                    "endtime": 119033
+                },
+                {
+                    "text": "to",
+                    "part": false,
+                    "timestamp": 119033,
+                    "endtime": 119212
+                },
+                {
+                    "text": "move",
+                    "part": false,
+                    "timestamp": 119212,
+                    "endtime": 119518
+                },
+                {
+                    "text": "like",
+                    "part": false,
+                    "timestamp": 119518,
+                    "endtime": 119833
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 119833,
+                    "endtime": 120134
+                },
+                {
+                    "text": "wa",
+                    "part": true,
+                    "timestamp": 120134,
+                    "endtime": 120588
+                },
+                {
+                    "text": "ter",
+                    "part": false,
+                    "timestamp": 120588,
+                    "endtime": 121241
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 118148,
+            "endtime": 121241
+        },
+        {
+            "text": [
+                {
+                    "text": "In",
+                    "part": false,
+                    "timestamp": 121742,
+                    "endtime": 122291
+                },
+                {
+                    "text": "be",
+                    "part": true,
+                    "timestamp": 122291,
+                    "endtime": 122499
+                },
+                {
+                    "text": "tween",
+                    "part": false,
+                    "timestamp": 122499,
+                    "endtime": 122782
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 122782,
+                    "endtime": 122955
+                },
+                {
+                    "text": "dan",
+                    "part": true,
+                    "timestamp": 122955,
+                    "endtime": 123441
+                },
+                {
+                    "text": "cing",
+                    "part": false,
+                    "timestamp": 123441,
+                    "endtime": 123699
+                },
+                {
+                    "text": "lights",
+                    "part": false,
+                    "timestamp": 123699,
+                    "endtime": 124569
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 121742,
+            "endtime": 124569
+        },
+        {
+            "text": [
+                {
+                    "text": "Be",
+                    "part": false,
+                    "timestamp": 124569,
+                    "endtime": 124876
+                },
+                {
+                    "text": "mine,",
+                    "part": false,
+                    "timestamp": 124876,
+                    "endtime": 125409
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 125604,
+                    "endtime": 125801
+                },
+                {
+                    "text": "mine",
+                    "part": false,
+                    "timestamp": 125801,
+                    "endtime": 126393
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 124569,
+            "endtime": 126393
+        },
+        {
+            "text": [
+                {
+                    "text": "A",
+                    "part": true,
+                    "timestamp": 126619,
+                    "endtime": 127180
+                },
+                {
+                    "text": "zi",
+                    "part": true,
+                    "timestamp": 127180,
+                    "endtime": 127497
+                },
+                {
+                    "text": "zam",
+                    "part": false,
+                    "timestamp": 127497,
+                    "endtime": 128240
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 126619,
+            "endtime": 128240
+        },
+        {
+            "text": [
+                {
+                    "text": "Meet",
+                    "part": false,
+                    "timestamp": 129428,
+                    "endtime": 129836
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 129836,
+                    "endtime": 130007
+                },
+                {
+                    "text": "on",
+                    "part": false,
+                    "timestamp": 130007,
+                    "endtime": 130322
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 130322,
+                    "endtime": 130487
+                },
+                {
+                    "text": "floor",
+                    "part": false,
+                    "timestamp": 130487,
+                    "endtime": 130955
+                },
+                {
+                    "text": "to",
+                    "part": true,
+                    "timestamp": 130955,
+                    "endtime": 131252
+                },
+                {
+                    "text": "night",
+                    "part": false,
+                    "timestamp": 131252,
+                    "endtime": 131807
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 129428,
+            "endtime": 131807
+        },
+        {
+            "text": [
+                {
+                    "text": "Show",
+                    "part": false,
+                    "timestamp": 133175,
+                    "endtime": 133562
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 133562,
+                    "endtime": 133756
+                },
+                {
+                    "text": "how",
+                    "part": false,
+                    "timestamp": 133756,
+                    "endtime": 134068
+                },
+                {
+                    "text": "to",
+                    "part": false,
+                    "timestamp": 134068,
+                    "endtime": 134231
+                },
+                {
+                    "text": "move",
+                    "part": false,
+                    "timestamp": 134231,
+                    "endtime": 134527
+                },
+                {
+                    "text": "like",
+                    "part": false,
+                    "timestamp": 134527,
+                    "endtime": 134855
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 134855,
+                    "endtime": 135151
+                },
+                {
+                    "text": "wa",
+                    "part": true,
+                    "timestamp": 135151,
+                    "endtime": 135594
+                },
+                {
+                    "text": "ter",
+                    "part": false,
+                    "timestamp": 135594,
+                    "endtime": 136266
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 133175,
+            "endtime": 136266
+        },
+        {
+            "text": [
+                {
+                    "text": "In",
+                    "part": false,
+                    "timestamp": 136751,
+                    "endtime": 137307
+                },
+                {
+                    "text": "be",
+                    "part": true,
+                    "timestamp": 137307,
+                    "endtime": 137515
+                },
+                {
+                    "text": "tween",
+                    "part": false,
+                    "timestamp": 137515,
+                    "endtime": 137797
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 137797,
+                    "endtime": 137984
+                },
+                {
+                    "text": "dan",
+                    "part": true,
+                    "timestamp": 137984,
+                    "endtime": 138421
+                },
+                {
+                    "text": "cing",
+                    "part": false,
+                    "timestamp": 138421,
+                    "endtime": 138701
+                },
+                {
+                    "text": "lights",
+                    "part": false,
+                    "timestamp": 138701,
+                    "endtime": 139524
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 136751,
+            "endtime": 139524
+        },
+        {
+            "text": [
+                {
+                    "text": "Be",
+                    "part": false,
+                    "timestamp": 139572,
+                    "endtime": 139860
+                },
+                {
+                    "text": "mine,",
+                    "part": false,
+                    "timestamp": 139860,
+                    "endtime": 140348
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 140599,
+                    "endtime": 140791
+                },
+                {
+                    "text": "mine",
+                    "part": false,
+                    "timestamp": 140791,
+                    "endtime": 141332
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 139572,
+            "endtime": 141332
+        },
+        {
+            "text": [
+                {
+                    "text": "A",
+                    "part": true,
+                    "timestamp": 141617,
+                    "endtime": 142202
+                },
+                {
+                    "text": "zi",
+                    "part": true,
+                    "timestamp": 142202,
+                    "endtime": 142509
+                },
+                {
+                    "text": "zam",
+                    "part": false,
+                    "timestamp": 142509,
+                    "endtime": 143188
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 141617,
+            "endtime": 143188
+        },
+        {
+            "text": [
+                {
+                    "text": "A",
+                    "part": true,
+                    "timestamp": 149121,
+                    "endtime": 149668
+                },
+                {
+                    "text": "zi",
+                    "part": true,
+                    "timestamp": 149668,
+                    "endtime": 150006
+                },
+                {
+                    "text": "zam",
+                    "part": false,
+                    "timestamp": 150006,
+                    "endtime": 150614
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 149121,
+            "endtime": 150614
+        },
+        {
+            "text": [
+                {
+                    "text": "A",
+                    "part": true,
+                    "timestamp": 156614,
+                    "endtime": 157185
+                },
+                {
+                    "text": "zi",
+                    "part": true,
+                    "timestamp": 157185,
+                    "endtime": 157531
+                },
+                {
+                    "text": "zam",
+                    "part": false,
+                    "timestamp": 157531,
+                    "endtime": 158267
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 156614,
+            "endtime": 158267
+        }
+    ]
+}

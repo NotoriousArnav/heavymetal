@@ -1,0 +1,2054 @@
+{
+    "info": "SongSync is cool, but would like to try Lyrically? :)",
+    "type": "Syllable",
+    "content": [
+        {
+            "text": [
+                {
+                    "text": "I'm",
+                    "part": false,
+                    "timestamp": 21769,
+                    "endtime": 21924
+                },
+                {
+                    "text": "tired",
+                    "part": false,
+                    "timestamp": 21924,
+                    "endtime": 22275
+                },
+                {
+                    "text": "of",
+                    "part": false,
+                    "timestamp": 22275,
+                    "endtime": 22495
+                },
+                {
+                    "text": "being",
+                    "part": false,
+                    "timestamp": 22495,
+                    "endtime": 22798
+                },
+                {
+                    "text": "what",
+                    "part": false,
+                    "timestamp": 22798,
+                    "endtime": 23072
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 23072,
+                    "endtime": 23352
+                },
+                {
+                    "text": "want",
+                    "part": false,
+                    "timestamp": 23352,
+                    "endtime": 23923
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 23923,
+                    "endtime": 24095
+                },
+                {
+                    "text": "to",
+                    "part": false,
+                    "timestamp": 24095,
+                    "endtime": 24274
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 24274,
+                    "endtime": 25511
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 21769,
+            "endtime": 25511
+        },
+        {
+            "text": [
+                {
+                    "text": "Feeling",
+                    "part": false,
+                    "timestamp": 25521,
+                    "endtime": 26146
+                },
+                {
+                    "text": "so",
+                    "part": false,
+                    "timestamp": 26146,
+                    "endtime": 26521
+                },
+                {
+                    "text": "faithless,",
+                    "part": false,
+                    "timestamp": 26521,
+                    "endtime": 27621
+                },
+                {
+                    "text": "lost",
+                    "part": false,
+                    "timestamp": 27621,
+                    "endtime": 27925
+                },
+                {
+                    "text": "under",
+                    "part": false,
+                    "timestamp": 27925,
+                    "endtime": 28436
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 28436,
+                    "endtime": 28573
+                },
+                {
+                    "text": "surface",
+                    "part": false,
+                    "timestamp": 28573,
+                    "endtime": 29776
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 25521,
+            "endtime": 29776
+        },
+        {
+            "text": [
+                {
+                    "text": "Don't",
+                    "part": false,
+                    "timestamp": 30546,
+                    "endtime": 30974
+                },
+                {
+                    "text": "know",
+                    "part": false,
+                    "timestamp": 30974,
+                    "endtime": 31248
+                },
+                {
+                    "text": "what",
+                    "part": false,
+                    "timestamp": 31248,
+                    "endtime": 31546
+                },
+                {
+                    "text": "you're",
+                    "part": false,
+                    "timestamp": 31546,
+                    "endtime": 31914
+                },
+                {
+                    "text": "expecting",
+                    "part": false,
+                    "timestamp": 31914,
+                    "endtime": 32712
+                },
+                {
+                    "text": "of",
+                    "part": false,
+                    "timestamp": 32712,
+                    "endtime": 32991
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 32991,
+                    "endtime": 33765
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 30546,
+            "endtime": 33765
+        },
+        {
+            "text": [
+                {
+                    "text": "Put",
+                    "part": false,
+                    "timestamp": 34110,
+                    "endtime": 34425
+                },
+                {
+                    "text": "under",
+                    "part": false,
+                    "timestamp": 34425,
+                    "endtime": 34949
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 34949,
+                    "endtime": 35217
+                },
+                {
+                    "text": "pressure",
+                    "part": false,
+                    "timestamp": 35217,
+                    "endtime": 36401
+                },
+                {
+                    "text": "of",
+                    "part": false,
+                    "timestamp": 36401,
+                    "endtime": 36644
+                },
+                {
+                    "text": "walking",
+                    "part": false,
+                    "timestamp": 36644,
+                    "endtime": 37519
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 37519,
+                    "endtime": 38023
+                },
+                {
+                    "text": "your",
+                    "part": false,
+                    "timestamp": 38023,
+                    "endtime": 38477
+                },
+                {
+                    "text": "shoes",
+                    "part": false,
+                    "timestamp": 38477,
+                    "endtime": 41949
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 34110,
+            "endtime": 41949
+        },
+        {
+            "text": [
+                {
+                    "text": "Caught",
+                    "part": false,
+                    "timestamp": 39345,
+                    "endtime": 39832
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 39832,
+                    "endtime": 40095
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 40095,
+                    "endtime": 40273
+                },
+                {
+                    "text": "undertow,",
+                    "part": false,
+                    "timestamp": 40273,
+                    "endtime": 40678
+                },
+                {
+                    "text": "just",
+                    "part": false,
+                    "timestamp": 40678,
+                    "endtime": 40910
+                },
+                {
+                    "text": "caught",
+                    "part": false,
+                    "timestamp": 40910,
+                    "endtime": 41350
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 41350,
+                    "endtime": 41487
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 41487,
+                    "endtime": 41594
+                },
+                {
+                    "text": "undertow",
+                    "part": false,
+                    "timestamp": 41594,
+                    "endtime": 42333
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 39345,
+            "endtime": 42333
+        },
+        {
+            "text": [
+                {
+                    "text": "Every",
+                    "part": false,
+                    "timestamp": 42608,
+                    "endtime": 43024
+                },
+                {
+                    "text": "step",
+                    "part": false,
+                    "timestamp": 43024,
+                    "endtime": 43447
+                },
+                {
+                    "text": "that",
+                    "part": false,
+                    "timestamp": 43447,
+                    "endtime": 43715
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 43715,
+                    "endtime": 43970
+                },
+                {
+                    "text": "take",
+                    "part": false,
+                    "timestamp": 43970,
+                    "endtime": 44589
+                },
+                {
+                    "text": "is",
+                    "part": false,
+                    "timestamp": 44589,
+                    "endtime": 44869
+                },
+                {
+                    "text": "another",
+                    "part": false,
+                    "timestamp": 44869,
+                    "endtime": 45952
+                },
+                {
+                    "text": "mistake",
+                    "part": false,
+                    "timestamp": 45952,
+                    "endtime": 46802
+                },
+                {
+                    "text": "to",
+                    "part": false,
+                    "timestamp": 46802,
+                    "endtime": 47373
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 47373,
+                    "endtime": 51428
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 42608,
+            "endtime": 51428
+        },
+        {
+            "text": [
+                {
+                    "text": "Caught",
+                    "part": false,
+                    "timestamp": 48064,
+                    "endtime": 48567
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 48567,
+                    "endtime": 48701
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 48701,
+                    "endtime": 48887
+                },
+                {
+                    "text": "undertow,",
+                    "part": false,
+                    "timestamp": 48887,
+                    "endtime": 49412
+                },
+                {
+                    "text": "just",
+                    "part": false,
+                    "timestamp": 49412,
+                    "endtime": 49680
+                },
+                {
+                    "text": "caught",
+                    "part": false,
+                    "timestamp": 49680,
+                    "endtime": 49976
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 49976,
+                    "endtime": 50100
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 50100,
+                    "endtime": 50289
+                },
+                {
+                    "text": "undertow",
+                    "part": false,
+                    "timestamp": 50289,
+                    "endtime": 51340
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 48064,
+            "endtime": 51340
+        },
+        {
+            "text": [
+                {
+                    "text": "I've",
+                    "part": false,
+                    "timestamp": 51757,
+                    "endtime": 52733
+                },
+                {
+                    "text": "become",
+                    "part": false,
+                    "timestamp": 52733,
+                    "endtime": 53476
+                },
+                {
+                    "text": "so",
+                    "part": false,
+                    "timestamp": 53476,
+                    "endtime": 54105
+                },
+                {
+                    "text": "numb,",
+                    "part": false,
+                    "timestamp": 54105,
+                    "endtime": 54708
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 54708,
+                    "endtime": 54976
+                },
+                {
+                    "text": "can't",
+                    "part": false,
+                    "timestamp": 54976,
+                    "endtime": 55285
+                },
+                {
+                    "text": "feel",
+                    "part": false,
+                    "timestamp": 55285,
+                    "endtime": 55820
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 55820,
+                    "endtime": 56305
+                },
+                {
+                    "text": "there",
+                    "part": false,
+                    "timestamp": 56305,
+                    "endtime": 57085
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 51757,
+            "endtime": 57085
+        },
+        {
+            "text": [
+                {
+                    "text": "Become",
+                    "part": false,
+                    "timestamp": 57097,
+                    "endtime": 57722
+                },
+                {
+                    "text": "so",
+                    "part": false,
+                    "timestamp": 57722,
+                    "endtime": 58364
+                },
+                {
+                    "text": "tired,",
+                    "part": false,
+                    "timestamp": 58364,
+                    "endtime": 58840
+                },
+                {
+                    "text": "so",
+                    "part": false,
+                    "timestamp": 58840,
+                    "endtime": 59263
+                },
+                {
+                    "text": "much",
+                    "part": false,
+                    "timestamp": 59263,
+                    "endtime": 59542
+                },
+                {
+                    "text": "more",
+                    "part": false,
+                    "timestamp": 59542,
+                    "endtime": 60119
+                },
+                {
+                    "text": "aware",
+                    "part": false,
+                    "timestamp": 60119,
+                    "endtime": 61465
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 57097,
+            "endtime": 61465
+        },
+        {
+            "text": [
+                {
+                    "text": "I'm",
+                    "part": false,
+                    "timestamp": 61145,
+                    "endtime": 61496
+                },
+                {
+                    "text": "becoming",
+                    "part": false,
+                    "timestamp": 61496,
+                    "endtime": 62739
+                },
+                {
+                    "text": "this,",
+                    "part": false,
+                    "timestamp": 62739,
+                    "endtime": 63429
+                },
+                {
+                    "text": "all",
+                    "part": false,
+                    "timestamp": 63429,
+                    "endtime": 63739
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 63739,
+                    "endtime": 64019
+                },
+                {
+                    "text": "want",
+                    "part": false,
+                    "timestamp": 64019,
+                    "endtime": 64393
+                },
+                {
+                    "text": "to",
+                    "part": false,
+                    "timestamp": 64393,
+                    "endtime": 64887
+                },
+                {
+                    "text": "do",
+                    "part": false,
+                    "timestamp": 64887,
+                    "endtime": 65444
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 61145,
+            "endtime": 65444
+        },
+        {
+            "text": [
+                {
+                    "text": "Is",
+                    "part": false,
+                    "timestamp": 65456,
+                    "endtime": 65749
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 65749,
+                    "endtime": 66028
+                },
+                {
+                    "text": "more",
+                    "part": false,
+                    "timestamp": 66028,
+                    "endtime": 66587
+                },
+                {
+                    "text": "like",
+                    "part": false,
+                    "timestamp": 66587,
+                    "endtime": 67147
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 67147,
+                    "endtime": 67736
+                },
+                {
+                    "text": "and",
+                    "part": false,
+                    "timestamp": 67736,
+                    "endtime": 68009
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 68009,
+                    "endtime": 68289
+                },
+                {
+                    "text": "less",
+                    "part": false,
+                    "timestamp": 68289,
+                    "endtime": 68830
+                },
+                {
+                    "text": "like",
+                    "part": false,
+                    "timestamp": 68830,
+                    "endtime": 69352
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 69352,
+                    "endtime": 70287
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 65456,
+            "endtime": 70287
+        },
+        {
+            "text": [
+                {
+                    "text": "Can't",
+                    "part": false,
+                    "timestamp": 69886,
+                    "endtime": 70273
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 70273,
+                    "endtime": 70426
+                },
+                {
+                    "text": "see",
+                    "part": false,
+                    "timestamp": 70426,
+                    "endtime": 70808
+                },
+                {
+                    "text": "that",
+                    "part": false,
+                    "timestamp": 70808,
+                    "endtime": 71094
+                },
+                {
+                    "text": "you're",
+                    "part": false,
+                    "timestamp": 71094,
+                    "endtime": 71312
+                },
+                {
+                    "text": "smothering",
+                    "part": false,
+                    "timestamp": 71312,
+                    "endtime": 72444
+                },
+                {
+                    "text": "me?",
+                    "part": false,
+                    "timestamp": 72444,
+                    "endtime": 73463
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 69886,
+            "endtime": 73463
+        },
+        {
+            "text": [
+                {
+                    "text": "Holding",
+                    "part": false,
+                    "timestamp": 73607,
+                    "endtime": 74220
+                },
+                {
+                    "text": "too",
+                    "part": false,
+                    "timestamp": 74220,
+                    "endtime": 74410
+                },
+                {
+                    "text": "tightly,",
+                    "part": false,
+                    "timestamp": 74410,
+                    "endtime": 75695
+                },
+                {
+                    "text": "afraid",
+                    "part": false,
+                    "timestamp": 75695,
+                    "endtime": 76243
+                },
+                {
+                    "text": "to",
+                    "part": false,
+                    "timestamp": 76243,
+                    "endtime": 76765
+                },
+                {
+                    "text": "lose",
+                    "part": false,
+                    "timestamp": 76765,
+                    "endtime": 77343
+                },
+                {
+                    "text": "control",
+                    "part": false,
+                    "timestamp": 77343,
+                    "endtime": 78136
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 73607,
+            "endtime": 78136
+        },
+        {
+            "text": [
+                {
+                    "text": "'Cause",
+                    "part": false,
+                    "timestamp": 78146,
+                    "endtime": 78730
+                },
+                {
+                    "text": "everything",
+                    "part": false,
+                    "timestamp": 78730,
+                    "endtime": 79551
+                },
+                {
+                    "text": "that",
+                    "part": false,
+                    "timestamp": 79551,
+                    "endtime": 79849
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 79849,
+                    "endtime": 80122
+                },
+                {
+                    "text": "thought",
+                    "part": false,
+                    "timestamp": 80122,
+                    "endtime": 80592
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 80592,
+                    "endtime": 80811
+                },
+                {
+                    "text": "would",
+                    "part": false,
+                    "timestamp": 80811,
+                    "endtime": 81038
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 81038,
+                    "endtime": 81939
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 78146,
+            "endtime": 81939
+        },
+        {
+            "text": [
+                {
+                    "text": "Has",
+                    "part": false,
+                    "timestamp": 81952,
+                    "endtime": 82428
+                },
+                {
+                    "text": "fallen",
+                    "part": false,
+                    "timestamp": 82428,
+                    "endtime": 82993
+                },
+                {
+                    "text": "apart",
+                    "part": false,
+                    "timestamp": 82993,
+                    "endtime": 84385
+                },
+                {
+                    "text": "right",
+                    "part": false,
+                    "timestamp": 84385,
+                    "endtime": 84974
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 84974,
+                    "endtime": 85432
+                },
+                {
+                    "text": "front",
+                    "part": false,
+                    "timestamp": 85432,
+                    "endtime": 86087
+                },
+                {
+                    "text": "of",
+                    "part": false,
+                    "timestamp": 86087,
+                    "endtime": 86610
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 86610,
+                    "endtime": 90112
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 81952,
+            "endtime": 90112
+        },
+        {
+            "text": [
+                {
+                    "text": "Caught",
+                    "part": false,
+                    "timestamp": 87298,
+                    "endtime": 87695
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 87695,
+                    "endtime": 87896
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 87896,
+                    "endtime": 88084
+                },
+                {
+                    "text": "undertow,",
+                    "part": false,
+                    "timestamp": 88084,
+                    "endtime": 88735
+                },
+                {
+                    "text": "just",
+                    "part": false,
+                    "timestamp": 88735,
+                    "endtime": 89007
+                },
+                {
+                    "text": "caught",
+                    "part": false,
+                    "timestamp": 89007,
+                    "endtime": 89358
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 89358,
+                    "endtime": 89525
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 89525,
+                    "endtime": 89679
+                },
+                {
+                    "text": "undertow",
+                    "part": false,
+                    "timestamp": 89679,
+                    "endtime": 90511
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 87298,
+            "endtime": 90511
+        },
+        {
+            "text": [
+                {
+                    "text": "Every",
+                    "part": false,
+                    "timestamp": 90581,
+                    "endtime": 91021
+                },
+                {
+                    "text": "step",
+                    "part": false,
+                    "timestamp": 91021,
+                    "endtime": 91444
+                },
+                {
+                    "text": "that",
+                    "part": false,
+                    "timestamp": 91444,
+                    "endtime": 91723
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 91723,
+                    "endtime": 91991
+                },
+                {
+                    "text": "take",
+                    "part": false,
+                    "timestamp": 91991,
+                    "endtime": 92634
+                },
+                {
+                    "text": "is",
+                    "part": false,
+                    "timestamp": 92634,
+                    "endtime": 92901
+                },
+                {
+                    "text": "another",
+                    "part": false,
+                    "timestamp": 92901,
+                    "endtime": 93966
+                },
+                {
+                    "text": "mistake",
+                    "part": false,
+                    "timestamp": 93966,
+                    "endtime": 94758
+                },
+                {
+                    "text": "to",
+                    "part": false,
+                    "timestamp": 94758,
+                    "endtime": 95366
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 95366,
+                    "endtime": 98670
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 90581,
+            "endtime": 98670
+        },
+        {
+            "text": [
+                {
+                    "text": "Caught",
+                    "part": false,
+                    "timestamp": 96049,
+                    "endtime": 96574
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 96574,
+                    "endtime": 96753
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 96753,
+                    "endtime": 96874
+                },
+                {
+                    "text": "undertow,",
+                    "part": false,
+                    "timestamp": 96874,
+                    "endtime": 97493
+                },
+                {
+                    "text": "just",
+                    "part": false,
+                    "timestamp": 97493,
+                    "endtime": 97752
+                },
+                {
+                    "text": "caught",
+                    "part": false,
+                    "timestamp": 97752,
+                    "endtime": 98116
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 98116,
+                    "endtime": 98280
+                },
+                {
+                    "text": "the",
+                    "part": false,
+                    "timestamp": 98280,
+                    "endtime": 98530
+                },
+                {
+                    "text": "undertow",
+                    "part": false,
+                    "timestamp": 98530,
+                    "endtime": 99352
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": false,
+            "timestamp": 96049,
+            "endtime": 99352
+        },
+        {
+            "text": [
+                {
+                    "text": "And",
+                    "part": false,
+                    "timestamp": 99059,
+                    "endtime": 99398
+                },
+                {
+                    "text": "every",
+                    "part": false,
+                    "timestamp": 99398,
+                    "endtime": 99803
+                },
+                {
+                    "text": "second",
+                    "part": false,
+                    "timestamp": 99803,
+                    "endtime": 100493
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 100493,
+                    "endtime": 100765
+                },
+                {
+                    "text": "waste",
+                    "part": false,
+                    "timestamp": 100765,
+                    "endtime": 101350
+                },
+                {
+                    "text": "is",
+                    "part": false,
+                    "timestamp": 101350,
+                    "endtime": 101622
+                },
+                {
+                    "text": "more",
+                    "part": false,
+                    "timestamp": 101622,
+                    "endtime": 101884
+                },
+                {
+                    "text": "than",
+                    "part": false,
+                    "timestamp": 101884,
+                    "endtime": 102182
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 102182,
+                    "endtime": 102575
+                },
+                {
+                    "text": "can",
+                    "part": false,
+                    "timestamp": 102575,
+                    "endtime": 102968
+                },
+                {
+                    "text": "take",
+                    "part": false,
+                    "timestamp": 102968,
+                    "endtime": 104476
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 99059,
+            "endtime": 104476
+        },
+        {
+            "text": [
+                {
+                    "text": "I've",
+                    "part": false,
+                    "timestamp": 104074,
+                    "endtime": 105014
+                },
+                {
+                    "text": "become",
+                    "part": false,
+                    "timestamp": 105014,
+                    "endtime": 105758
+                },
+                {
+                    "text": "so",
+                    "part": false,
+                    "timestamp": 105758,
+                    "endtime": 106436
+                },
+                {
+                    "text": "numb,",
+                    "part": false,
+                    "timestamp": 106436,
+                    "endtime": 106989
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 106989,
+                    "endtime": 107251
+                },
+                {
+                    "text": "can't",
+                    "part": false,
+                    "timestamp": 107251,
+                    "endtime": 107566
+                },
+                {
+                    "text": "feel",
+                    "part": false,
+                    "timestamp": 107566,
+                    "endtime": 108102
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 108102,
+                    "endtime": 108655
+                },
+                {
+                    "text": "there",
+                    "part": false,
+                    "timestamp": 108655,
+                    "endtime": 109420
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 104074,
+            "endtime": 109420
+        },
+        {
+            "text": [
+                {
+                    "text": "Become",
+                    "part": false,
+                    "timestamp": 109433,
+                    "endtime": 110218
+                },
+                {
+                    "text": "so",
+                    "part": false,
+                    "timestamp": 110218,
+                    "endtime": 110854
+                },
+                {
+                    "text": "tired,",
+                    "part": false,
+                    "timestamp": 110854,
+                    "endtime": 111331
+                },
+                {
+                    "text": "so",
+                    "part": false,
+                    "timestamp": 111331,
+                    "endtime": 111747
+                },
+                {
+                    "text": "much",
+                    "part": false,
+                    "timestamp": 111747,
+                    "endtime": 112027
+                },
+                {
+                    "text": "more",
+                    "part": false,
+                    "timestamp": 112027,
+                    "endtime": 112604
+                },
+                {
+                    "text": "aware",
+                    "part": false,
+                    "timestamp": 112604,
+                    "endtime": 113626
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 109433,
+            "endtime": 113626
+        },
+        {
+            "text": [
+                {
+                    "text": "I'm",
+                    "part": false,
+                    "timestamp": 113634,
+                    "endtime": 113876
+                },
+                {
+                    "text": "becoming",
+                    "part": false,
+                    "timestamp": 113876,
+                    "endtime": 115170
+                },
+                {
+                    "text": "this,",
+                    "part": false,
+                    "timestamp": 115170,
+                    "endtime": 115860
+                },
+                {
+                    "text": "all",
+                    "part": false,
+                    "timestamp": 115860,
+                    "endtime": 116021
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 116021,
+                    "endtime": 116312
+                },
+                {
+                    "text": "want",
+                    "part": false,
+                    "timestamp": 116312,
+                    "endtime": 116758
+                },
+                {
+                    "text": "to",
+                    "part": false,
+                    "timestamp": 116758,
+                    "endtime": 117371
+                },
+                {
+                    "text": "do",
+                    "part": false,
+                    "timestamp": 117371,
+                    "endtime": 117907
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 113634,
+            "endtime": 117907
+        },
+        {
+            "text": [
+                {
+                    "text": "Is",
+                    "part": false,
+                    "timestamp": 117913,
+                    "endtime": 118234
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 118234,
+                    "endtime": 118514
+                },
+                {
+                    "text": "more",
+                    "part": false,
+                    "timestamp": 118514,
+                    "endtime": 119073
+                },
+                {
+                    "text": "like",
+                    "part": false,
+                    "timestamp": 119073,
+                    "endtime": 119632
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 119632,
+                    "endtime": 120221
+                },
+                {
+                    "text": "and",
+                    "part": false,
+                    "timestamp": 120221,
+                    "endtime": 120489
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 120489,
+                    "endtime": 120685
+                },
+                {
+                    "text": "less",
+                    "part": false,
+                    "timestamp": 120685,
+                    "endtime": 121108
+                },
+                {
+                    "text": "like",
+                    "part": false,
+                    "timestamp": 121108,
+                    "endtime": 121685
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 121685,
+                    "endtime": 123143
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 117913,
+            "endtime": 123143
+        },
+        {
+            "text": [
+                {
+                    "text": "And",
+                    "part": false,
+                    "timestamp": 123155,
+                    "endtime": 123571
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 123571,
+                    "endtime": 123932
+                },
+                {
+                    "text": "know,",
+                    "part": false,
+                    "timestamp": 123932,
+                    "endtime": 125303
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 125303,
+                    "endtime": 125588
+                },
+                {
+                    "text": "may",
+                    "part": false,
+                    "timestamp": 125588,
+                    "endtime": 126176
+                },
+                {
+                    "text": "end",
+                    "part": false,
+                    "timestamp": 126176,
+                    "endtime": 127290
+                },
+                {
+                    "text": "up",
+                    "part": false,
+                    "timestamp": 127290,
+                    "endtime": 128360
+                },
+                {
+                    "text": "failing,",
+                    "part": false,
+                    "timestamp": 128360,
+                    "endtime": 130127
+                },
+                {
+                    "text": "too",
+                    "part": false,
+                    "timestamp": 130127,
+                    "endtime": 131777
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 123155,
+            "endtime": 131777
+        },
+        {
+            "text": [
+                {
+                    "text": "But",
+                    "part": false,
+                    "timestamp": 131790,
+                    "endtime": 132129
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 132129,
+                    "endtime": 132373
+                },
+                {
+                    "text": "know,",
+                    "part": false,
+                    "timestamp": 132373,
+                    "endtime": 134348
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 134348,
+                    "endtime": 134616
+                },
+                {
+                    "text": "were",
+                    "part": false,
+                    "timestamp": 134616,
+                    "endtime": 134848
+                },
+                {
+                    "text": "just",
+                    "part": false,
+                    "timestamp": 134848,
+                    "endtime": 135228
+                },
+                {
+                    "text": "like",
+                    "part": false,
+                    "timestamp": 135228,
+                    "endtime": 135723
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 135723,
+                    "endtime": 136294
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 131790,
+            "endtime": 136294
+        },
+        {
+            "text": [
+                {
+                    "text": "With",
+                    "part": false,
+                    "timestamp": 136305,
+                    "endtime": 136534
+                },
+                {
+                    "text": "someone",
+                    "part": false,
+                    "timestamp": 136534,
+                    "endtime": 136930
+                },
+                {
+                    "text": "disa",
+                    "part": true,
+                    "timestamp": 136930,
+                    "endtime": 137598
+                },
+                {
+                    "text": "ppointed",
+                    "part": false,
+                    "timestamp": 137598,
+                    "endtime": 138637
+                },
+                {
+                    "text": "in",
+                    "part": false,
+                    "timestamp": 138637,
+                    "endtime": 138917
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 138917,
+                    "endtime": 141230
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 136305,
+            "endtime": 141230
+        },
+        {
+            "text": [
+                {
+                    "text": "I've",
+                    "part": false,
+                    "timestamp": 141238,
+                    "endtime": 142249
+                },
+                {
+                    "text": "become",
+                    "part": false,
+                    "timestamp": 142249,
+                    "endtime": 142993
+                },
+                {
+                    "text": "so",
+                    "part": false,
+                    "timestamp": 142993,
+                    "endtime": 143665
+                },
+                {
+                    "text": "numb,",
+                    "part": false,
+                    "timestamp": 143665,
+                    "endtime": 144225
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 144225,
+                    "endtime": 144486
+                },
+                {
+                    "text": "can't",
+                    "part": false,
+                    "timestamp": 144486,
+                    "endtime": 144802
+                },
+                {
+                    "text": "feel",
+                    "part": false,
+                    "timestamp": 144802,
+                    "endtime": 145135
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 145135,
+                    "endtime": 145682
+                },
+                {
+                    "text": "there",
+                    "part": false,
+                    "timestamp": 145682,
+                    "endtime": 146602
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 141238,
+            "endtime": 146602
+        },
+        {
+            "text": [
+                {
+                    "text": "Become",
+                    "part": false,
+                    "timestamp": 146615,
+                    "endtime": 147246
+                },
+                {
+                    "text": "so",
+                    "part": false,
+                    "timestamp": 147246,
+                    "endtime": 147882
+                },
+                {
+                    "text": "tired,",
+                    "part": false,
+                    "timestamp": 147882,
+                    "endtime": 148358
+                },
+                {
+                    "text": "so",
+                    "part": false,
+                    "timestamp": 148358,
+                    "endtime": 148775
+                },
+                {
+                    "text": "much",
+                    "part": false,
+                    "timestamp": 148775,
+                    "endtime": 149054
+                },
+                {
+                    "text": "more",
+                    "part": false,
+                    "timestamp": 149054,
+                    "endtime": 149631
+                },
+                {
+                    "text": "aware",
+                    "part": false,
+                    "timestamp": 149631,
+                    "endtime": 150836
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 146615,
+            "endtime": 150836
+        },
+        {
+            "text": [
+                {
+                    "text": "I'm",
+                    "part": false,
+                    "timestamp": 150847,
+                    "endtime": 151167
+                },
+                {
+                    "text": "becoming",
+                    "part": false,
+                    "timestamp": 151167,
+                    "endtime": 152251
+                },
+                {
+                    "text": "this,",
+                    "part": false,
+                    "timestamp": 152251,
+                    "endtime": 152887
+                },
+                {
+                    "text": "all",
+                    "part": false,
+                    "timestamp": 152887,
+                    "endtime": 153089
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 153089,
+                    "endtime": 153352
+                },
+                {
+                    "text": "want",
+                    "part": false,
+                    "timestamp": 153352,
+                    "endtime": 153792
+                },
+                {
+                    "text": "to",
+                    "part": false,
+                    "timestamp": 153792,
+                    "endtime": 154405
+                },
+                {
+                    "text": "do",
+                    "part": false,
+                    "timestamp": 154405,
+                    "endtime": 155095
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 150847,
+            "endtime": 155095
+        },
+        {
+            "text": [
+                {
+                    "text": "Is",
+                    "part": false,
+                    "timestamp": 155103,
+                    "endtime": 155264
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 155264,
+                    "endtime": 155543
+                },
+                {
+                    "text": "more",
+                    "part": false,
+                    "timestamp": 155543,
+                    "endtime": 156097
+                },
+                {
+                    "text": "like",
+                    "part": false,
+                    "timestamp": 156097,
+                    "endtime": 156656
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 156656,
+                    "endtime": 157257
+                },
+                {
+                    "text": "and",
+                    "part": false,
+                    "timestamp": 157257,
+                    "endtime": 157518
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 157518,
+                    "endtime": 157804
+                },
+                {
+                    "text": "less",
+                    "part": false,
+                    "timestamp": 157804,
+                    "endtime": 158339
+                },
+                {
+                    "text": "like",
+                    "part": false,
+                    "timestamp": 158339,
+                    "endtime": 158869
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 158869,
+                    "endtime": 159923
+                }
+            ],
+            "background": false,
+            "backgroundText": [],
+            "oppositeTurn": true,
+            "timestamp": 155103,
+            "endtime": 159923
+        },
+        {
+            "text": [
+                {
+                    "text": "I've",
+                    "part": false,
+                    "timestamp": 158835,
+                    "endtime": 159739
+                },
+                {
+                    "text": "become",
+                    "part": false,
+                    "timestamp": 159739,
+                    "endtime": 160483
+                },
+                {
+                    "text": "so",
+                    "part": false,
+                    "timestamp": 160483,
+                    "endtime": 160945
+                },
+                {
+                    "text": "numb,",
+                    "part": false,
+                    "timestamp": 160945,
+                    "endtime": 161406
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 161406,
+                    "endtime": 161810
+                },
+                {
+                    "text": "can't",
+                    "part": false,
+                    "timestamp": 161810,
+                    "endtime": 162387
+                },
+                {
+                    "text": "feel",
+                    "part": false,
+                    "timestamp": 162387,
+                    "endtime": 162643
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 162643,
+                    "endtime": 162929
+                },
+                {
+                    "text": "there",
+                    "part": false,
+                    "timestamp": 162929,
+                    "endtime": 163680
+                }
+            ],
+            "background": true,
+            "backgroundText": [
+                {
+                    "text": "I'm",
+                    "part": false,
+                    "timestamp": 163543,
+                    "endtime": 163702
+                },
+                {
+                    "text": "tired",
+                    "part": false,
+                    "timestamp": 163702,
+                    "endtime": 164041
+                },
+                {
+                    "text": "of",
+                    "part": false,
+                    "timestamp": 164041,
+                    "endtime": 164261
+                },
+                {
+                    "text": "being",
+                    "part": false,
+                    "timestamp": 164261,
+                    "endtime": 164576
+                },
+                {
+                    "text": "what",
+                    "part": false,
+                    "timestamp": 164576,
+                    "endtime": 164874
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 164874,
+                    "endtime": 165147
+                },
+                {
+                    "text": "want",
+                    "part": false,
+                    "timestamp": 165147,
+                    "endtime": 165671
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 165671,
+                    "endtime": 165956
+                },
+                {
+                    "text": "to",
+                    "part": false,
+                    "timestamp": 165956,
+                    "endtime": 166266
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 166266,
+                    "endtime": 167248
+                }
+            ],
+            "oppositeTurn": true,
+            "timestamp": 158835,
+            "endtime": 167248
+        },
+        {
+            "text": [
+                {
+                    "text": "I've",
+                    "part": false,
+                    "timestamp": 167378,
+                    "endtime": 168485
+                },
+                {
+                    "text": "become",
+                    "part": false,
+                    "timestamp": 168485,
+                    "endtime": 169133
+                },
+                {
+                    "text": "so",
+                    "part": false,
+                    "timestamp": 169133,
+                    "endtime": 169520
+                },
+                {
+                    "text": "numb,",
+                    "part": false,
+                    "timestamp": 169520,
+                    "endtime": 170054
+                },
+                {
+                    "text": "I",
+                    "part": false,
+                    "timestamp": 170054,
+                    "endtime": 170531
+                },
+                {
+                    "text": "can't",
+                    "part": false,
+                    "timestamp": 170531,
+                    "endtime": 170841
+                },
+                {
+                    "text": "feel",
+                    "part": false,
+                    "timestamp": 170841,
+                    "endtime": 171132
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 171132,
+                    "endtime": 171581
+                },
+                {
+                    "text": "there",
+                    "part": false,
+                    "timestamp": 171581,
+                    "endtime": 172436
+                }
+            ],
+            "background": true,
+            "backgroundText": [
+                {
+                    "text": "I'm",
+                    "part": false,
+                    "timestamp": 172221,
+                    "endtime": 172557
+                },
+                {
+                    "text": "tired",
+                    "part": false,
+                    "timestamp": 172557,
+                    "endtime": 172810
+                },
+                {
+                    "text": "of",
+                    "part": false,
+                    "timestamp": 172810,
+                    "endtime": 172929
+                },
+                {
+                    "text": "being",
+                    "part": false,
+                    "timestamp": 172929,
+                    "endtime": 173252
+                },
+                {
+                    "text": "what",
+                    "part": false,
+                    "timestamp": 173252,
+                    "endtime": 173613
+                },
+                {
+                    "text": "you",
+                    "part": false,
+                    "timestamp": 173613,
+                    "endtime": 173768
+                },
+                {
+                    "text": "want",
+                    "part": false,
+                    "timestamp": 173768,
+                    "endtime": 174317
+                },
+                {
+                    "text": "me",
+                    "part": false,
+                    "timestamp": 174317,
+                    "endtime": 174743
+                },
+                {
+                    "text": "to",
+                    "part": false,
+                    "timestamp": 174743,
+                    "endtime": 175031
+                },
+                {
+                    "text": "be",
+                    "part": false,
+                    "timestamp": 175031,
+                    "endtime": 176322
+                }
+            ],
+            "oppositeTurn": true,
+            "timestamp": 167378,
+            "endtime": 176322
+        }
+    ]
+}
